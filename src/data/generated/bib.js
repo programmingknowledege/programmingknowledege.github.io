@@ -2,7 +2,7 @@
     "batuwatta2022physics": {
         "author": "Batuwatta-Gamage, CP and Rathnayaka, CM and Karunasena, H Charminda P and Wijerathne, WDCC and Jeong, Hyogu and Welsh, ZG and Karim, MA and Gu, YT",
         "journal": "Journal of Food Engineering",
-        "keywords": "type: Research, food drying, machine learning, Deep neural network, Food drying, Artificial Neural network, Moisture concentration , Physics-informed neural network , Shrinkage , Surrogate framework",
+        "keywords": "type: Research, food drying, machine learning, Deep neural network, evaluation: Accuracy, evaluation: MSE, Food drying, Artificial Neural network, Moisture concentration , Physics-informed neural network , Shrinkage , Surrogate framework",
         "pages": "111137",
         "publisher": "Elsevier",
         "title": "A physics-informed neural network-based surrogate framework to predict moisture concentration and shrinkage of a plant cell during drying",
@@ -13,7 +13,7 @@
     "ccakmak2011prediction": {
         "author": "{\\c{C}}akmak, G{\\\"u}l{\\c{s}}ah and Y{\\i}ld{\\i}z, Cengiz",
         "journal": "Computers and Electronics in Agriculture",
-        "keywords": "type: Research, other:food drying, Seedy grape, Drying,machine learning, Modelling, Artificial Neural network, Predictive Analysis, Agricultural Drying",
+        "keywords": "type: Research, other:food drying,evaluation: RMSE, evaluation: MAE,evaluation: Correlation Coefficients, Seedy grape, Drying,machine learning, Modelling, Artificial Neural network, Predictive Analysis, Agricultural Drying",
         "number": "1",
         "pages": "132--138",
         "publisher": "Elsevier",
@@ -48,7 +48,7 @@
     "iheonye2023monitoring": {
         "author": "Iheonye, Anthony C and Raghavan, Vijaya and Ferrie, Frank P and Orsat, Val{\\'e}rie and Gariepy, Yvan",
         "journal": "Food Engineering Reviews",
-        "keywords": "type: Research, food drying, machine learning, Computer vision , Color , Texture , Shrinkage , Deep learning , Real-time monitoring , Drying",
+        "keywords": "type: Research, food drying, machine learning, Computer vision , Color , Texture , Shrinkage , Deep learning , Real-time monitoring , Drying, evaluation:RMSE",
         "number": "2",
         "pages": "242--260",
         "publisher": "Springer",
@@ -72,7 +72,7 @@
     "khan2023novel": {
         "author": "Khan, M Imran H and Longa, Duval and Sablani, Shyam S and Gu, YuanTong",
         "journal": "Food and Bioprocess Technology",
-        "keywords": "type: Research, Food drying , Artificial Neural Network,  Elastic modulus , Hardness , Stiffness, Machine Learning",
+        "keywords": "type: Research, evaluation: R Square, Food drying , Artificial Neural Network,  Elastic modulus , Hardness , Stiffness, Machine Learning",
         "number": "2",
         "pages": "420--433",
         "publisher": "Springer",
@@ -84,7 +84,7 @@
     "li2019neural": {
         "author": "Li, Honglu and Chen, Songlin",
         "journal": "Drying technology",
-        "keywords": "type: Research, food drying, machine learning, Counter-current flow grain dryer, thin-layer drying model,  Artificial Neural Network, nonlinear autoregressive exogenous model, model predictive control, particle swarm optimization",
+        "keywords": "type: Research, evaluation: Performance of the control strategy, food drying, machine learning, Counter-current flow grain dryer, thin-layer drying model,  Artificial Neural Network, nonlinear autoregressive exogenous model, model predictive control, particle swarm optimization",
         "publisher": "Taylor \\& Francis",
         "title": "A neural-network-based model predictive control scheme for grain dryers",
         "type": "article",
@@ -100,7 +100,7 @@
     "menlik2010determination": {
         "author": "Menlik, Tayfun and {\\\"O}zdemir, Mustafa Bahad{\\i}r and Kirmaci, Volkan",
         "journal": "Expert Systems with Applications",
-        "keywords": "type: Research, food drying, machine learning,Apples Freeze drying, Food Drying, Modeling, Artificial Neural Network",
+        "keywords": "type: Research, food drying, machine learning,Apples Freeze drying, Food Drying, Modeling, Artificial Neural Network, evaluation: R Square,  evaluation: RMSE,  evaluation: MAPE",
         "number": "12",
         "pages": "7669--7677",
         "publisher": "Elsevier",
