@@ -4,7 +4,7 @@ define({
 			"description": "type of the paper"
 		},
 		"evaluation": {
-			"description": "type of the paper"
+			"description": "type of the Evaluation"
 		}
 	}
 });
